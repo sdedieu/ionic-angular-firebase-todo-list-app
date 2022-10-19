@@ -1,0 +1,7 @@
+{
+  "name": "topics",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
